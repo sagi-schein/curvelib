@@ -1,3 +1,5 @@
+module CurveLib where
+
 import System.Random
 import Data.Maybe
 import Data.AffineSpace
